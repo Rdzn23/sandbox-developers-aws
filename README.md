@@ -13,12 +13,12 @@ Spin up **guard-railed Lightsail sandboxes** with automated deployment, monitori
 
 ### Key Features
 
-- 🛡️ **Guard-Railed Sandbox** - Secure, time-limited environments with auto-termination
-- 🔄 **Auto Cleanup** - Automatic stack deletion after termination
-- 🔌 **Port Management** - Ports 22, 80, 443 opened automatically
-- 📢 **SNS Notifications** - Get notified on stack events
-- 🎨 **Modern Web UI** - Easy-to-use interface for deployment configuration
-- ⚡ **CloudFormation Integration** - Leverage AWS infrastructure as code
+- **Guard-Railed Sandbox** - Secure, time-limited environments with auto-termination
+- **Auto Cleanup** - Automatic stack deletion after termination
+- **Port Management** - Ports 22, 80, 443 opened automatically
+- **SNS Notifications** - Get notified on stack events
+- **Modern Web UI** - Easy-to-use interface for deployment configuration
+- **CloudFormation Integration** - Leverage AWS infrastructure as code
 
 ## Prerequisites
 
