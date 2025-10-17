@@ -99,7 +99,7 @@ AWS_SECRET_ACCESS_KEY=your_secret_key
 ```
 ┌─────────────────┐         ┌─────────────────┐         ┌─────────────────┐
 │                 │         │                 │         │                 │
-│  React Frontend │────────▶│  FastAPI Backend│────────▶│   AWS Services  │
+│  React Frontend │───────▶│  FastAPI Backend │───────▶│   AWS Services  │
 │                 │         │                 │         │                 │
 └─────────────────┘         └─────────────────┘         └─────────────────┘
                                     │
